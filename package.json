@@ -1,0 +1,22 @@
+{
+  "name": "blockchain-html-fund-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nataliia-Korneiko/blockchain-html-fund-me.git"
+  },
+  "keywords": [],
+  "author": "Nataliia Korneiko <korneyko_ns@ukr.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nataliia-Korneiko/blockchain-html-fund-me/issues"
+  },
+  "homepage": "https://github.com/Nataliia-Korneiko/blockchain-html-fund-me#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "prettier": "^2.7.1"
+  }
+}
